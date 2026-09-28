@@ -1,4 +1,4 @@
-###🏗️ BABA BUILDING MATERIAL
+## 🏗️ BABA BUILDING MATERIAL
 
 > **Quality Materials. Strong Foundations. Better Buildings.**
 
@@ -8,7 +8,7 @@ The website focuses on a clean user interface, easy navigation, mobile responsiv
 
 ----
 
- ##📌 About the Project
+ ## 📌 About the Project
 
 **BABA BUILDING MATERIAL** is a business website created to provide customers with quick information about available construction materials and services.
 
